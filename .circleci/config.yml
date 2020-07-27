@@ -62,7 +62,7 @@ jobs:
         environment:
           DEBIAN_FRONTEND: "noninteractive"
           EXTRACT_DEST: /tmp/extracted-archive
-          ENVIRONMENT: production
+          ENVIRONMENT: prod
     steps:
       - attach_workspace:
           at: artifacts
