@@ -3,7 +3,7 @@ applications:
 - name: pal-tracker-prod
   path: src/PalTracker/bin/Release/netcoreapp3.1/publish/
   routes:
-  - route: pal-tracker-ganesh-prod.pivotal.io
+  - route: pal-tracker-ganesh-prod.cfapps.io
   env:
     WELCOME_MESSAGE: Hello from the production environment
     
