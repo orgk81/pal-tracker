@@ -37,6 +37,8 @@ namespace PalTracker
            var cfInstanceAddr = Configuration.GetValue<string>("CF_INSTANCE_ADDR");
            services.AddSingleton(x => new CloudFoundryInfo(port, memoryLimit, cfInstanceIndex, cfInstanceAddr));
            services.AddSingleton(sp => new WelcomeMessage(message));
+           
+           services.AddSingleton<ITimeEntryRepository, InMemoryTimeEntryRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
