@@ -389,3 +389,14 @@ C:\Users\user01\workspace\pal-tracker\test\PalTrackerTests\bin\Debug\netcoreapp3
 C:\Users\user01\workspace\pal-tracker\test\PalTrackerTests\bin\Debug\netcoreapp3.1\Steeltoe.Common.dll
 C:\Users\user01\workspace\pal-tracker\test\PalTrackerTests\bin\Debug\netcoreapp3.1\Steeltoe.Extensions.Configuration.CloudFoundryBase.dll
 C:\Users\user01\workspace\pal-tracker\test\PalTrackerTests\bin\Debug\netcoreapp3.1\Steeltoe.Extensions.Configuration.CloudFoundryCore.dll
+C:\Users\user01\workspace\pal-tracker\test\PalTrackerTests\bin\Debug\netcoreapp3.1\Microsoft.DiaSymReader.dll
+C:\Users\user01\workspace\pal-tracker\test\PalTrackerTests\bin\Debug\netcoreapp3.1\Microsoft.DiaSymReader.PortablePdb.dll
+C:\Users\user01\workspace\pal-tracker\test\PalTrackerTests\bin\Debug\netcoreapp3.1\Steeltoe.Common.Http.dll
+C:\Users\user01\workspace\pal-tracker\test\PalTrackerTests\bin\Debug\netcoreapp3.1\Steeltoe.Extensions.Logging.DynamicLogger.dll
+C:\Users\user01\workspace\pal-tracker\test\PalTrackerTests\bin\Debug\netcoreapp3.1\Steeltoe.Management.CloudFoundryCore.dll
+C:\Users\user01\workspace\pal-tracker\test\PalTrackerTests\bin\Debug\netcoreapp3.1\Steeltoe.Management.Diagnostics.dll
+C:\Users\user01\workspace\pal-tracker\test\PalTrackerTests\bin\Debug\netcoreapp3.1\Steeltoe.Management.EndpointBase.dll
+C:\Users\user01\workspace\pal-tracker\test\PalTrackerTests\bin\Debug\netcoreapp3.1\Steeltoe.Management.EndpointCore.dll
+C:\Users\user01\workspace\pal-tracker\test\PalTrackerTests\bin\Debug\netcoreapp3.1\Steeltoe.Management.OpenCensus.dll
+C:\Users\user01\workspace\pal-tracker\test\PalTrackerTests\bin\Debug\netcoreapp3.1\Steeltoe.Management.OpenCensus.Abstractions.dll
+C:\Users\user01\workspace\pal-tracker\test\PalTrackerTests\bin\Debug\netcoreapp3.1\Steeltoe.Management.OpenCensusBase.dll

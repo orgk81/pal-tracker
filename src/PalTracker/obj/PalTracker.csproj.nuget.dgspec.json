@@ -50,6 +50,10 @@
             "Steeltoe.CloudFoundry.Connector.EFCore": {
               "target": "Package",
               "version": "[2.4.2, )"
+            },
+            "Steeltoe.Management.CloudFoundryCore": {
+              "target": "Package",
+              "version": "[2.4.4, )"
             }
           },
           "imports": [
